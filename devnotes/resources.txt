@@ -1,0 +1,22 @@
+# Reference
+
+W3 Schools
+
+ * [HTML Reference Home](https://www.w3schools.com/html/default.asp)
+ * [HTML Tag Reference](https://www.w3schools.com/tags/)
+
+
+# Tools
+
+## Graphics
+
+Adobe Illustrator
+
+Favicons
+
+ * [Favicon ICO packager](http://realfavicongenerator.net/)
+ * [Favicon preview](http://www.favicon.cc/)
+
+## Examples
+
+ * [The Muse top 35](https://www.themuse.com/advice/the-35-best-personal-websites-weve-ever-seen)
