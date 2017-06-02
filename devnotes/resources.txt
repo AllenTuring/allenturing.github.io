@@ -1,9 +1,19 @@
 # Reference
 
-W3 Schools
+## Source
 
- * [HTML Reference Home](https://www.w3schools.com/html/default.asp)
- * [HTML Tag Reference](https://www.w3schools.com/tags/)
+HTML
+
+ * [W3 HTML Reference Home](https://www.w3schools.com/html/default.asp)
+ * [W3 HTML Tag Reference](https://www.w3schools.com/tags/)
+
+## Concept
+
+Design
+
+ * [WBE Website Design Articles](http://www.websitebuilderexpert.com/category/website-design/)
+ * [Reddit /r/Webdev FAQ](https://www.reddit.com/r/webdev/wiki/faq)
+
 
 
 # Tools
@@ -11,6 +21,15 @@ W3 Schools
 ## Graphics
 
 Adobe Illustrator
+
+Color Palette
+
+ * [Adobe Kuler Wheel](https://color.adobe.com)
+ * [Coolors.io](https://coolors.co)
+  * [Example 1](https://coolors.co/545f66-ffd3c6-ffe9d2-05a8aa-17bebb)
+ * [Paletton](paletton.com/)
+ * [CSD](colorschemedesigner.com)
+ * [WBE Color Palette Guide](http://www.websitebuilderexpert.com/how-to-choose-color-for-your-website/)
 
 Favicons
 
