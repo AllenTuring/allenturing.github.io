@@ -1,12 +1,12 @@
 Project Status
 -------------------------------
-Right now learning Adobe Illustrator for graphics and predraft.
-So much graphic design.
+Finished a homepage draft. Time to realize part of it and create the exportable graphic.
+
+Hooray, basic competency in Illustrator.
 
 
 Agenda
 -------------------------------
-Make a sketchup of homepage in Illustrator
-Use central graphics
-Revamp color scheme if necessary
+Realize mockup of index.html, using dummy stubs for links
+Create other pages and replace dummy stubs, test links
 
