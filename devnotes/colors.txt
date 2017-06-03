@@ -1,5 +1,6 @@
-545F66 Black Coral
-FFD3C6 Unbleached Silk
-FFE9D2 Unbleached Almond
-05A8AA Persian Green
-17BEBB Tiffany Blue
+15d1f2 blue
+b5ffee light blue
+ff4242 red
+fbb03b orange
+71e851 green
+3f484c black but not really
