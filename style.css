@@ -1,7 +1,6 @@
 /* Base formatting */
 body {
 	font-family: 'Muli', sans-serif;
-	font-size: 18pt;
 	color: #3f484c;
 }
 
@@ -19,7 +18,15 @@ a.external {
 	font-weight: bold;
 }
 
+/* Display */
+img.display {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
 /* Header Bar */
+/*
 header {
 	display: inline;
 	font-family: 'Roboto', sans-serif;
@@ -38,7 +45,4 @@ nav ul.navbar-links li {
 nav ul.navbar-links li #current {
 	color: #68777d;
 }
-
-nav ul.navbar-links li.sep {
-	color: #71e851;
-}
+*/

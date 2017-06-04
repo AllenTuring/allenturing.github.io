@@ -5,21 +5,22 @@
 	<title>Allen Jiang | Home</title>
 	<meta charset="utf-8">
 
+	<!-- external -->
+	<!-- jquery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<!-- normalize.css -->
+	<link rel="stylesheet" href="normalize.css">
 	<!-- font imports -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,Muli" rel="stylesheet"> 
 	<!-- boostrap 3 -->
 		<!-- Latest compiled and minified CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 		<!-- Optional theme -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+		<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">-->
 		<!-- Latest compiled and minified JavaScript -->
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 		<!-- Non-zoom mobile -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-	<!-- normalize.css -->
-	<link rel="stylesheet" href="normalize.css">
-	<!-- site stylesheet -->
-	<link rel="stylesheet" href="style.css">
 
 	<!-- favicon -->
 	<link rel="icon" href="/favicon.ico" type="image/x-icon">
@@ -31,35 +32,37 @@
 	<meta name="msapplication-TileColor" content="#da532c">
 	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
 	<meta name="theme-color" content="#ffffff">
+
+	<!-- stylesheet -->
+	<link rel="stylesheet" href="style.css">
 	
 	<!-- javascript -->
 
 </head>
-
 <body>
 	<header>
-		<span class="navbar-title">Allen<b>Jiang</b></span>
-		<nav class="navbar">
-			<ul class="navbar-links">
-				<li><a href="index.html" id="current">Home</a></li>
-				<li class="sep">/<li>
-				<li><a href="about.html">About</a></li>
-				<li class="sep">/<li>
-				<li><a href="projects.html">Projects</a></li>
-				<li class="sep">/<li>
-				<li><a href="hire-me.html">Resume</a></li>
-				<li class="sep">//<li>
-				<li><a href="contact.html">Contact</a></li>
-			<ul>
+		<nav id="menu" class="navbar navbar-default navbar-fixed-top">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="index.html">Allen<b>Jiang</b></a>
+				</div>
+				<ul class="nav navbar-nav navbar-right">
+					<li class="active"><a href="index.html">Home</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="projects.html">Projects</a></li>
+					<li><a href="hire-me.html">Resume</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				<ul>
+			</div>
 		</nav>
 	</header>
+	<!-- TODO relative path for testing: Change to /img before publishing -->
+	<img class="display" src="img/homegraphic.png"> 
 	<h1 class="display">Developer.</h1>
 	<h2 class="display">Let's launch something awesome together.</h2>
 	<p><a href="contact.html">Contact</a></p>
 	<p><a href="hire-me.html">Resume</a></p>
 	<p>
-	<!-- TODO relative path for testing: Change to /img before publishing -->
-	<img class="display" src="img/homegraphic.png"> 
 	<footer>
 		<p>© Allen Jiang (2017) All rights reserved. | Hosted on Github Pages</p>
 		<p>Curious about how this website works? See the <a class="external" href="https://github.com/AllenTuring/allenturing.github.io">source</a> code</p>
