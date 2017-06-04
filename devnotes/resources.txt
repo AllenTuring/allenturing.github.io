@@ -6,6 +6,15 @@ HTML
 
  * [W3 HTML Reference Home](https://www.w3schools.com/html/default.asp)
  * [W3 HTML Tag Reference](https://www.w3schools.com/tags/)
+ * [HTMLDog](http://htmldog.com/guides/html/)
+
+CSS
+
+ * [HTMLDog](http://htmldog.com/guides/css/)
+
+JS
+
+ * [HTMLDog](http://htmldog.com/guides/js/)
 
 ## Concept
 
