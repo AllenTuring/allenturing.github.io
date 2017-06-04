@@ -1,0 +1,56 @@
+/* Base formatting */
+body {
+	font-family: 'Muli', sans-serif;
+	color: #3f484c;
+}
+
+/* Links */
+a {
+	text-decoration: none;
+	color: #3f484c;
+}
+
+a:hover {
+	color: #68777d;
+}
+
+a.external {
+	font-weight: bold;
+}
+
+/* Images */
+img.fill {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+/* Header Bar */
+nav #menu {
+}
+
+span #nav-logo {
+	width: 30px;
+	max-width: 30px;
+	height: auto;
+}
+/*
+header {
+	display: inline;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24pt;
+}
+
+nav ul.navbar-links {
+	list-style-type: none;
+	display: inline;
+}
+
+nav ul.navbar-links li {
+	display: inline;
+}
+
+nav ul.navbar-links li #current {
+	color: #68777d;
+}
+*/
