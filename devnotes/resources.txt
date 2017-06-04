@@ -4,12 +4,14 @@
 
 HTML
 
- * [W3 HTML Reference Home](https://www.w3schools.com/html/default.asp)
+ * [W3 HTML Tutorial Home](https://www.w3schools.com/html/default.asp)
  * [W3 HTML Tag Reference](https://www.w3schools.com/tags/)
  * [HTMLDog](http://htmldog.com/guides/html/)
 
 CSS
 
+ * [W3 CSS Tutorial Home](https://www.w3schools.com/css/default.asp)
+ * [W3 CSS Reference Home](https://www.w3schools.com/cssref/default.asp)
  * [HTMLDog](http://htmldog.com/guides/css/)
 
 JS
