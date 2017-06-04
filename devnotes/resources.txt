@@ -14,6 +14,9 @@ CSS
  * [W3 CSS Reference Home](https://www.w3schools.com/cssref/default.asp)
  * [HTMLDog](http://htmldog.com/guides/css/)
  * [listmatic](http://css.maxdesign.com.au/listamatic/)
+ * [normalize.css](http://necolas.github.io/normalize.css/)
+ * [boostrap.css](http://getbootstrap.com)
+ * [W3 Boostrap Reference](https://www.w3schools.com/bootstrap)
 
 JS
 
