@@ -1,5 +1,44 @@
+/* Base formatting */
 body {
+	font-family: 'Muli', sans-serif;
+	font-size: 18pt;
+	color: #3f484c;
+}
+
+/* Links */
+a {
+	text-decoration: none;
+	color: #3f484c;
+}
+
+a:hover {
+	color: #68777d;
+}
+
+a.external {
+	font-weight: bold;
+}
+
+/* Header Bar */
+header {
+	display: inline;
 	font-family: 'Roboto', sans-serif;
-	font-size:'18pt';
-	color: #3F484C;
+	font-size: 24pt;
+}
+
+nav ul.navbar-links {
+	list-style-type: none;
+	display: inline;
+}
+
+nav ul.navbar-links li {
+	display: inline;
+}
+
+nav ul.navbar-links li #current {
+	color: #68777d;
+}
+
+nav ul.navbar-links li.sep {
+	color: #71e851;
 }

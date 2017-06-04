@@ -3,4 +3,5 @@ b5ffee light blue
 ff4242 red
 fbb03b orange
 71e851 green
+68777d gray derived
 3f484c black but not really
