@@ -6,10 +6,6 @@ body {
 	color: #3f484c;
 }
 
-div.container-content {
-	max-width: 85%;
-}
-
 /* Links */
 a {
 	text-decoration: none;
@@ -17,6 +13,7 @@ a {
 }
 
 a:hover {
+	text-decoration: none;
 	color: #68777d;
 }
 
@@ -74,4 +71,25 @@ nav.navbar-custom a.navbar-brand img {
 
 nav.navbar-custom ul.navbar-nav li {
 	text-transform: lowercase;
+}
+
+/* Footer */
+footer {
+	background-color: #1e2224;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	margin-top: 35px;
+	font-size: 8pt;
+	line-height: 2pt;
+}
+
+footer a:hover {
+	color: #3f484c;
+}
+
+footer div.footer-text{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
 }

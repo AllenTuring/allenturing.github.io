@@ -22,13 +22,16 @@ JS
 
  * [HTMLDog](http://htmldog.com/guides/js/)
 
+Sitemap
+
+ * [Sitemap Generator](https://www.xml-sitemaps.com/)
+
 ## Concept
 
 Design
 
  * [WBE Website Design Articles](http://www.websitebuilderexpert.com/category/website-design/)
  * [Reddit /r/Webdev FAQ](https://www.reddit.com/r/webdev/wiki/faq)
-
 
 
 # Tools
@@ -39,6 +42,7 @@ Adobe Illustrator
 
 Color Palette
 
+ * [Color Adjuster](http://www.hexcolortool.com)
  * [Adobe Kuler Wheel](https://color.adobe.com)
  * [Coolors.io](https://coolors.co)
   * [Example 1](https://coolors.co/545f66-ffd3c6-ffe9d2-05a8aa-17bebb)

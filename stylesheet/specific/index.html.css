@@ -1,9 +1,18 @@
 /* Display Jumbotron */
 div.jumbotron.display {
-	background-color: black;
+	background-color: blue;
 }
 
 div.display-title {
 	background-color: red;
 	text-align: center;
 }
+
+div.display-title h1, div.display-title h2 {
+	text-transform: lowercase;
+}
+
+div.display-title a {
+	text-transform: uppercase;
+}
+
