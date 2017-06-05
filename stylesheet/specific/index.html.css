@@ -1,0 +1,9 @@
+/* Display Jumbotron */
+div.jumbotron.display {
+	background-color: black;
+}
+
+div.display-title {
+	background-color: red;
+	text-align: center;
+}

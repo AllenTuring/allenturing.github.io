@@ -1,7 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,Muli);
+
 /* Base formatting */
 body {
 	font-family: 'Muli', sans-serif;
 	color: #3f484c;
+}
+
+div.container-content {
+	max-width: 85%;
 }
 
 /* Links */
@@ -22,27 +28,50 @@ a.external {
 img.fill {
     max-width: 100%;
     height: auto;
-    width: auto\9; /* ie8 */
+    width: 100%;
 }
 
-/* Header Bar */
-/*
-header {
+.darken {
+	background-image:
+	linear-gradient(
+		rgba(0, 0, 0, 0.5),
+		rgba(0, 0, 0, 0.5));
+}
+
+.whitewash{
+	background-image:
+	linear-gradient(
+		rgba(255, 255, 255, 0.5),
+		rgba(255, 255, 255, 0.5));
+}
+
+/* Navbar */
+nav.navbar {
+	margin-bottom: 1px;
+}
+
+nav.navbar-custom {
+	background-color: #ffffff;
+	border-color: #e7e7e7;
+	text-align: center;
+	font-size: 16pt;
+}
+
+nav.navbar-custom a.navbar-brand {
+	font-size: 18pt;
+	text-align: right;
+	color: #3f484c;
+}
+
+nav.navbar-custom a.navbar-brand :hover {
+	color: #3f484c;
+}
+
+nav.navbar-custom a.navbar-brand img {
 	display: inline;
-	font-family: 'Roboto', sans-serif;
-	font-size: 24pt;
+	vertical-align: top;
 }
 
-nav ul.navbar-links {
-	list-style-type: none;
-	display: inline;
+nav.navbar-custom ul.navbar-nav li {
+	text-transform: lowercase;
 }
-
-nav ul.navbar-links li {
-	display: inline;
-}
-
-nav ul.navbar-links li #current {
-	color: #68777d;
-}
-*/

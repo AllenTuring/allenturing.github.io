@@ -10,8 +10,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<!-- normalize.css -->
 	<link rel="stylesheet" href="stylesheet/normalize/normalize.css">
-	<!-- font imports -->
-	<link href="https://fonts.googleapis.com/css?family=Roboto:300,Muli" rel="stylesheet"> 
 	<!-- boostrap 3.3.7 -->
 		<link rel="stylesheet" href="stylesheet/bootstrap/css/bootstrap.min.css">
 		<script src="stylesheet/bootstrap/js/bootstrap.min.js"></script>
@@ -29,15 +27,17 @@
 	<meta name="theme-color" content="#ffffff">
 
 	<!-- stylesheet -->
-	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="stylesheet/style.css">
+	<link rel="stylesheet" href="stylesheet/specific/index.html.css">
 	
 	<!-- javascript -->
 
 </head>
 <body>
 	<header>
+		<!-- Navbar -->
 		<nav id="menu" class="navbar navbar-custom">
-			<div class="container-fluid container-content">
+			<div id="menu-container" class="container-fluid container-content">
 				<div class="navbar-header">
 					<a class="navbar-brand" href="index.html">
 						<img src="img/star.png" height='20px' width='20px'>
@@ -53,15 +53,23 @@
 				<ul>
 			</div>
 		</nav>
+		<!-- Jumbotron Display -->
+		<div class="jumbotron jumbotron-fluid display">
+			<div class="display-title">
+				<h1>Developer.</h1>
+				<h2>Let's launch something awesome together.</h2>
+				<div class="display-nav">
+					<a href="contact.html">Contact</a>
+					<a href="hire-me.html">Resume</a>
+				</div>
+			</div>
+		</div>
 	</header>
-	<!-- TODO relative path for testing: Change to /img before publishing -->
-	<div class="display container-fluid">
-		<img class="fill display" src="img/homegraphic.svg">
-		<h1 class="display">Developer.</h1>
-		<h2 class="display">Let's launch something awesome together.</h2>
-		<p><a href="contact.html">Contact</a></p>
-		<p><a href="hire-me.html">Resume</a></p>
-	</div>
+	<!-- Content area -->
+	<article>
+		Site content.
+	</article>
+	<!-- Site Footer -->
 	<footer>
 		<p>© Allen Jiang (2017) All rights reserved. | Hosted on Github Pages</p>
 		<p>Curious about how this website works? See the <a class="external" href="https://github.com/AllenTuring/allenturing.github.io">source</a> code</p>
