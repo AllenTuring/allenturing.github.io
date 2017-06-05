@@ -51,6 +51,11 @@ nav.navbar-custom a.navbar-brand :hover {
 	color: #3f484c;
 }
 
+nav.navbar-custom a.navbar-brand img {
+	display: inline;
+	vertical-align: top;
+}
+
 nav.navbar-custom ul.navbar-nav li {
 	text-transform: lowercase;
 }
