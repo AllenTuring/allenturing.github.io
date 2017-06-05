@@ -3,16 +3,16 @@ div.jumbotron.display {
 	background-color: blue;
 }
 
-div.display-title {
+div.display-text {
 	background-color: red;
 	text-align: center;
 }
 
-div.display-title h1, div.display-title h2 {
+div.display-text h1, div.display-text h2 {
 	text-transform: lowercase;
 }
 
-div.display-title a {
+div.display-text a {
 	text-transform: uppercase;
 }
 
