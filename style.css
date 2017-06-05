@@ -4,6 +4,10 @@ body {
 	color: #3f484c;
 }
 
+div.container-content {
+	max-width: 85%;
+}
+
 /* Links */
 a {
 	text-decoration: none;
@@ -22,30 +26,31 @@ a.external {
 img.fill {
     max-width: 100%;
     height: auto;
-    width: auto\9; /* ie8 */
+    width: 100%;
 }
 
-/* Header Bar */
-nav #menu {
+/* Navbar */
+nav.navbar {
 }
 
-/*
-header {
-	display: inline;
-	font-family: 'Roboto', sans-serif;
-	font-size: 24pt;
+nav.navbar-custom {
+	background-color: #ffffff;
+	border-color: #e7e7e7;
+	text-align: center;
+	font-size: 16pt;
 }
 
-nav ul.navbar-links {
-	list-style-type: none;
-	display: inline;
+nav.navbar-custom a.navbar-brand {
+	font-size: 18pt;
+	text-align: right;
+	vertical-align: center;
+	color: #3f484c;
 }
 
-nav ul.navbar-links li {
-	display: inline;
+nav.navbar-custom a.navbar-brand :hover {
+	color: #3f484c;
 }
 
-nav ul.navbar-links li #current {
-	color: #68777d;
+nav.navbar-custom ul.navbar-nav li {
+	text-transform: lowercase;
 }
-*/

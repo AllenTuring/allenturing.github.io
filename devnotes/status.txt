@@ -1,8 +1,8 @@
 Project Status
 -------------------------------
-Finished a homepage draft. Time to realize part of it and create the exportable graphic.
+Started moving into design actualization with CSS. Looks like proportions are way off in the illustrator predraft, may have to scrap design with maingraphic or extend maingraphic to go for a wider dimension.
 
-Hooray, basic competency in Illustrator.
+Will have to consider mobile layout. I'm not good with these design tasks.
 
 
 Agenda
