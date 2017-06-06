@@ -28,8 +28,8 @@ img.grayscale {
 }
 
 img.darken {
-	-webkit-filter: brightness(50%);
-	filter: brightness(50%);
+	-webkit-filter: brightness(35%);
+	filter: brightness(35%);
 }
 
 img.whitewash{

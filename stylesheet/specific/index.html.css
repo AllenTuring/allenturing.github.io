@@ -4,7 +4,7 @@
 
 #display div.display-text {
 	text-align: center;
-	color: #dddddd;
+	color: #eeeeee;
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -20,15 +20,39 @@
 }
 
 #display div.display-text h1 {
+	font-size: 90pt;
 	text-transform: lowercase;
 }
 
 #display div.display-text h2 {
+	font-size: 30pt;
 	text-transform: lowercase;
 }
 
-#display div.display-text a {
+#display div.display-text nav {
+	padding-top: 40px;
+}
+
+#display div.display-text nav ul {
+	list-style-type: none;
+	display: inline;
+}
+
+#display div.display-text nav ul li {
+	display: inline;
+}
+
+#display div.display-text nav ul li a {
 	color: #aaaaaa;
-	text-transform: uppercase;
+	font-size: 28pt;
+	text-transform: capitalize;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+	border: 4px solid;
+	border-color: #eeeeee;;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
