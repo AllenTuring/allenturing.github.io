@@ -1,8 +1,10 @@
 /* Display Jumbotron */
 #display {
 	padding: 0px;
-	max-height: calc(90vh - 10vh);
+	max-height: calc(100vh - 2*56px); /* 56px being navbar height */
+	min-height: calc(100vh); 
 	overflow: hidden;
+	margin-bottom: 56px;
 }
 
 #display div.display-text {
