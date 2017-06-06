@@ -1,6 +1,8 @@
 /* Display Jumbotron */
 #display {
 	padding: 0px;
+	max-height: calc(90vh - 10vh);
+	overflow: hidden;
 }
 
 #display div.display-text {
@@ -16,7 +18,6 @@
 #display img.display-background {
 	display: block;
 	max-width: 100%;
-	max-height: 100%;
 	min-width: 900px;
 	height: auto;
 }
