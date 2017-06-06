@@ -43,7 +43,7 @@
 }
 
 #display div.display-text nav ul li a {
-	color: #dddddd;
+	color: #ffffff;
 	font-size: 28pt;
 	text-transform: capitalize;
 	padding-top: 20px;
@@ -51,8 +51,13 @@
 	padding-left: 30px;
 	padding-right: 30px;
 	border: 4px solid;
-	border-color: #eeeeee;
+	border-color: #ffffff;
 	margin-left: 20px;
 	margin-right: 20px;
+}
+
+#display div.display-text nav ul li a:hover {
+	background-color: #ffffff;
+	color: #222222;
 }
 
