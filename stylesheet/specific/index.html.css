@@ -1,18 +1,31 @@
 /* Display Jumbotron */
-div.jumbotron.display {
+div#display {
 	background-color: blue;
 }
 
-div.display-text {
-	background-color: red;
+div#display div.display-text {
 	text-align: center;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	margin-top: 10vw;
 }
 
-div.display-text h1, div.display-text h2 {
+div#display img.display-background {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+div#display div.display-text h1 {
 	text-transform: lowercase;
 }
 
-div.display-text a {
+div#display div.display-text h2 {
+	text-transform: lowercase;
+}
+
+div#display div.display-text a {
 	text-transform: uppercase;
 }
 
