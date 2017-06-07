@@ -1,9 +1,12 @@
 /* Display Jumbotron */
 #display {
 	padding: 0px;
-	max-height: calc(100vh - 2*56px); /* 56px being navbar height */
+	height: calc(100vh - 2*56px); /* 56px being navbar height */
 	overflow: hidden;
 	margin-bottom: 56px;
+	background-image: url("index.html.css img/cssmac.jpg");
+	background-size: cover;
+	background-position: center top;
 }
 
 #display div.display-text {
@@ -13,14 +16,6 @@
 	width: 100%;
 	height: 100%;
 	margin-top: 10vw;
-	z-index: 1;
-}
-
-#display img.display-background {
-	display: block;
-	max-width: 100%;
-	min-width: 900px;
-	height: auto;
 }
 
 #display div.display-text h1 {
