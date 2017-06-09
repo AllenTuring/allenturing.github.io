@@ -41,7 +41,7 @@
 }
 
 #display div.display-text nav {
-	padding-top: 5vmin;
+	padding-top: calc(4vmin + 10px);
 }
 
 #display div.display-text nav ul {
