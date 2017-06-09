@@ -18,6 +18,8 @@ CSS
  * [boostrap.css](http://getbootstrap.com)
  * [W3 Boostrap Reference](https://www.w3schools.com/bootstrap)
  * [CSS Tricks](https://css-tricks.com)
+ * [How to center stuff](http://codepen.io/meodai/pen/XbEqZw?editors=110)
+ * [Browser feature coverage](http://caniuse.com)
 
 JS
 
