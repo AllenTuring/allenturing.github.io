@@ -75,7 +75,10 @@ footer {
 	margin-bottom: 0px;
 	margin-top: 35px;
 	font-size: 8pt;
-	line-height: 60%;
+}
+
+footer p {
+	margin: 0px;
 }
 
 footer a:hover {
