@@ -1,10 +1,10 @@
 Project Status
 -------------------------------
-After getting close several times, I am coming to the conclusion that there is no way to make a semantic part of the html document (img) to be perfectly proportioned with background-size:cover behavior using pure html and css without media query magic, losing some edge cases, introducing js, or not being able to fully control the size of the container to be 100% reactive. So I'm going to use this branch (responsive-display-2) to try sacrificing the semantic property so I can compare its behavior and advantages with commit 5f6a69da7, but I think this will work better for bootstrap correctness.
+Creating about.html
 
 
 Agenda
 -------------------------------
-Make more correct responsive display for index.html.
-Create other pages and replace dummy stubs, test links
-
+About.html content
+Snap footer bottom
+Fill in other pages
