@@ -17,6 +17,10 @@ a:hover {
 	color: #68777d;
 }
 
+a:focus {
+	text-decoration: none;
+}
+
 a.external {
 	font-weight: bold;
 }
