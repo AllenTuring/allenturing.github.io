@@ -27,7 +27,7 @@
 	height: auto;
 	padding: 15px;
 	margin-top: 0px;
-	margin-bottom: 10%; /* For better centering estimate */
+	margin-bottom: calc(10vh - 11px); /* For better centering estimate */
 }
 
 #display div.display-text h1 {
