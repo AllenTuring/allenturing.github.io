@@ -1,3 +1,7 @@
+#content-area { /* Remove if below-jumbotron text is added */
+	padding-bottom: 80px; /* footer height */
+}
+
 /* Display Jumbotron */
 nav.navbar {
 	margin-bottom: 1px;
