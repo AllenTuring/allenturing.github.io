@@ -1,4 +1,8 @@
 /* Display Jumbotron */
+nav.navbar {
+	margin-bottom: 1px;
+}
+
 #display {
 	padding: 0px;
 	min-height: 424px; /* Full height on 320x480px screen */
