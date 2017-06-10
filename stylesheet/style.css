@@ -6,6 +6,11 @@ body {
 	color: #3f484c;
 }
 
+p {
+	text-align: justify;
+	font-size: 135%;
+}
+
 /* Links */
 a {
 	text-decoration: none;
