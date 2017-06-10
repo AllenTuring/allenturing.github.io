@@ -35,15 +35,6 @@ a.external {
 }
 
 /* Images */
-img.fill {
-	max-width: 100%;
-	height: auto;
-}
-
-img.fill-height {
-	max-height: 100%;
-	width: auto;
-}
 
 img.grayscale {
 	-webkit-filter: grayscale(100%);
