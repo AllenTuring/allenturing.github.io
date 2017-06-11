@@ -1,6 +1,7 @@
 Project Status
 -------------------------------
-Creating about.html
+Create projects.html
+Maybe make some actual projects later on, like old projects to find/commit
 
 
 Agenda
@@ -8,3 +9,4 @@ Agenda
 About.html content
 Snap footer bottom
 Fill in other pages
+Pass back over about.html for more content
