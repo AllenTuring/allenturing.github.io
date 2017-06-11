@@ -34,6 +34,10 @@ a.external {
 	font-weight: bold;
 }
 
+.text-center {
+	text-align: center;
+}
+
 /* Images */
 img.ellipse {
 	border-radius: 50%;
